@@ -7,7 +7,7 @@
 .text-area{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 25px;
 }
 
 .big-banner{
@@ -25,4 +25,9 @@
     color: black;
     text-align: center;
     border-radius: 12px;
+    transition: color 0.5 ease;
+}
+
+.box:hover{
+    color:cadetblue;
 }
