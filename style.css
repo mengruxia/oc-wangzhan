@@ -3,3 +3,13 @@
     height: auto;
     float: left;
 }
+
+.box{
+    display: block;
+    width: 200px;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    border-radius: 12px;
+}
