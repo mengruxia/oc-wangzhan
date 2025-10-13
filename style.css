@@ -25,7 +25,7 @@
     color: black;
     text-align: center;
     border-radius: 12px;
-    transition: color 0.5 ease;
+    transition: color 1s ease;
 }
 
 .box:hover{
