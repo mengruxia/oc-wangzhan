@@ -1,11 +1,12 @@
 .big-banner{
-    width: 500px;
+    width: 400px;
     height: auto;
     float: left;
 }
 
 .box{
     display: block;
+    background-color: beige;
     width: 200px;
     padding: 20px;
     text-decoration: none;
