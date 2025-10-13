@@ -40,3 +40,17 @@
 .box:hover{
     color:cadetblue;
 }
+
+
+
+.nav-left{
+    display: flex;
+    align-items: flex-start;
+    justify-items: flex-start;
+}
+
+.nav-right{
+    display: flex;
+    align-items: flex-start;
+    justify-items: flex-end;
+}
