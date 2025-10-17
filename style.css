@@ -54,6 +54,7 @@
     padding: 10px 30px;
     align-items: center;
     padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .nav-left{
@@ -95,4 +96,16 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+
+.slide{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 50px;
+
+}
+
+.slide_text{
+    flex: 1;
+    padding: 20px;
 }
