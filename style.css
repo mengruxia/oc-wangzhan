@@ -115,6 +115,13 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 100px;
+    gap: 150px;
     padding-top: 50px;
+}
+
+.hr{
+    width: 90%;
+    height: 3px;
+    margin-bottom: 30px;
+    background-color: cadetblue;
 }
