@@ -2,6 +2,7 @@
     background-color: beige;
     padding: 20px;
     width: 70%;
+    height: 20px;
     margin: 15px auto;
     border: 2px solid tan;
     border-radius: 12px;
@@ -21,4 +22,9 @@
 
 .video a:hover {
     color: cadetblue;
+}
+
+.title{
+    text-align: start;
+    margin: auto;
 }
