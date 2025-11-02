@@ -55,6 +55,7 @@
     align-items: center;
     padding-bottom: 50px;
     padding-top: 20px;
+    position: sticky;
 }
 
 .nav-left{
