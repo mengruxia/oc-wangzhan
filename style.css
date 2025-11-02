@@ -117,11 +117,12 @@
     align-items: center;
     gap: 150px;
     padding-top: 50px;
+    margin-bottom: 40px;
 }
 
 hr{
     width: 90%;
-    height: 3px;
-    margin-bottom: 30px;
+    height: 1px;
+    margin-bottom: 100px;
     background-color: cadetblue;
 }
