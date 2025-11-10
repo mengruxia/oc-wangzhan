@@ -12,8 +12,9 @@
     border: none;
     border-radius: 8px;
     background-color: cornflowerblue;
+    color:aliceblue;
     cursor: pointer;
-    transition: color 0.5s ease, background-color 0.5s ease;
+    transition: all 0.5s ease;
 }
 
 .button:hover{
