@@ -1,6 +1,22 @@
 .title{
     color: darkslategray;
-    font-size: 64px;
+    font-size: 40px;
     text-align: center;
     margin-top: 60px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 12px 32px;
+    border: none;
+    border-radius: 8px;
+    background-color: cornflowerblue;
+    cursor: pointer;
+    transition: color 0.5s ease;
+}
+
+.button:hover{
+    background-color: darkslateblue;
+    color: cadetblue;
 }
