@@ -21,3 +21,13 @@
     background-color:aliceblue;
     color:cornflowerblue;
 }
+
+.button:active{
+    transform: scale(0.95);
+}
+
+.cat-image{
+    position: absolute;
+    object-fit: contain;
+    pointer-events: none;
+}
